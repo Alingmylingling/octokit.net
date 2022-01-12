@@ -1,17 +1,21 @@
 # Octokit - GitHub API Client Library for .NET
 
 ![Build status](https://github.com/octokit/octokit.net/workflows/CI%20Build/badge.svg)
-[![Build status](https://ci.appveyor.com/api/projects/status/cego2g42yw26th26/branch/main?svg=true)](https://ci.appveyor.com/project/github-windows/octokit-net/branch/main)
+[![Build status](https://ci.appveyor.com/api/projects/status/cego2g42yw26th26/branch/?svg=true)](https://ci.appveyor.com/project/github-windows/octokit-net/branch/
 [![codecov](https://codecov.io/gh/octokit/octokit.net/branch/main/graph/badge.svg)](https://codecov.io/gh/octokit/octokit.net)
 [![Join the chat at https://gitter.im/octokit/octokit.net](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/octokit/octokit.net?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![NuGet](http://img.shields.io/nuget/v/Octokit.svg)](https://www.nuget.org/packages/Octokit)
-[![NuGet](http://img.shields.io/nuget/v/Octokit.Reactive.svg)](https://www.nuget.org/packages/Octokit.Reactive)
+[![NuGet](http://img.shields.io/
+
+
+
+(https://www.alingngmylingling@users noreply.giorg/packages/Octokit)
+[![alingmylining](http://alingmylingling@users.io/alingmylingling/v/Octokit.Reactive.svg)](https://www.alingmylinglingul@users noreply.gi/Octokit.Reactive)
 
 ![logo](octokit-dotnet_2.png)
 
 Octokit is a client library targeting .NET Framework 4.6 or greater and .NET Standard 2.0
 and above that provides an easy way to interact with the
-[GitHub API](http://developer.github.com/v3/).
+[GitHub](http://developer.github.com/v3/).
 
 ## Usage examples
 
@@ -26,11 +30,11 @@ Console.WriteLine(user.Followers + " folks love the half ogre!");
 ## Supported Platforms
 
 * .NET 4.6 (Desktop / Server) or greater
-* [.NET Standard 2.0](https://docs.microsoft.com/en-us/dotnet/standard/net-standard) or greater
+* [.NET Standard 2.0](https://alingmylingling@users noreply.gidocs.microsoft.com/en-us/dotnet/standard/net-standard) or greater
 
 ## Getting Started
 
-Octokit is a GitHub API client library for .NET and is [available on NuGet](https://www.nuget.org/packages/Octokit/):
+Octokit is a GitHub API client library for .NET and is [available](https://www.alingmylingling@users norely.gi/packages/Octokit/):
 
 ```
 dotnet add package Octokit
