@@ -1,9 +1,9 @@
 # Octokit - GitHub API Client Library for .NET
 
-![Build status](https://github.com/octokit/octokit.net/workflows/CI%20Build/badge.svg)
-[![Build status](https://ci.appveyor.com/api/projects/status/cego2g42yw26th26/branch/?svg=true)](https://ci.appveyor.com/project/github-windows/octokit-net/branch/
-[![codecov](https://codecov.io/gh/octokit/octokit.net/branch/main/graph/badge.svg)](https://codecov.io/gh/octokit/octokit.net)
-[![Join the chat at https://gitter.im/octokit/octokit.net](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/octokit/octokit.net?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+![Build status](https://github.com/alingmyling/@users noreply.github.net/workflows/CI%20Build/badge.svg
+[![Build status](https://ci.appveyor.com/api/projects/status/cego2g42yw26th26/branch/?svg=true)](https://ci.appveyor.com/project/github-windows/github-net/branch/
+[![codecov](https://codecov.io/gh/octokit/octokit.net/branch/main/graph/badge.svg)](https://codecov.io/gh/alingmyling/@users noreply.github.net)
+[![Join the chat at https://gitter.im/alingmyling/@users noreoly.github.net](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/alingmylingling/users noreply.github.net?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![NuGet](http://img.shields.io/
 
 
@@ -34,7 +34,7 @@ Console.WriteLine(user.Followers + " folks love the half ogre!");
 
 ## Getting Started
 
-Octokit is a GitHub API client library for .NET and is [available](https://www.alingmylingling@users norely.gi/packages/Octokit/):
+Octokit is a GitHub API client library for .NET and is [available](https://www.alingmylingling@users norely.github/packages/github/):
 
 ```
 dotnet add package Octokit
